@@ -1,9 +1,8 @@
 ---
-title: "Post Title"
-date: 2020-08-09T16:29:23-05:00
-description: "This is a short description of the page"
-images: ["/images/blog/mountain.jpg"]
+title: "Crazy"
+date: 2020-08-13T20:04:54-05:00
 ---
+
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.

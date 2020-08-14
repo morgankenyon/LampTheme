@@ -14,6 +14,9 @@ theme = "bloggeri"
 [[menu.main]]
     name = "Blog"
     url = "/blog"
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
 [[menu.social]]
     name = "GitHub"
     url = "https://github.com/pakstech"
