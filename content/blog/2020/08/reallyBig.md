@@ -1,6 +1,10 @@
 ---
 title: "ReallyBig"
 date: 2020-08-13T20:05:02-05:00
+images: ["/images/blog/reallyBig.jpg"]
+categories:
+  - Web development
+  - Blogging
 ---
 
 

@@ -1,6 +1,10 @@
 ---
 title: "Heaven"
 date: 2020-08-13T20:05:09-05:00
+images: ["/images/blog/heaven.jpg"]
+categories:
+  - Love
+  - Blogging
 ---
 
 

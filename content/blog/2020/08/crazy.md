@@ -1,11 +1,19 @@
 ---
 title: "Crazy"
 date: 2020-08-13T20:04:54-05:00
+images: ["/images/blog/crazy.jpg"]
+categories:
+  - Web development
+  - Blogging
 ---
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. 
+
+<!--more-->
+
+ellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
 
 ## What is Lorem Ipsum?
 Curabitur dolor est, bibendum eget mollis id, varius nec quam. Donec et sem vitae est semper imperdiet. Donec in augue blandit, gravida arcu ac, interdum quam. Morbi nec enim ex. Aliquam urna velit, consectetur quis ante id, lobortis condimentum risus. Morbi pulvinar nibh nec enim pharetra, id rutrum urna maximus. 

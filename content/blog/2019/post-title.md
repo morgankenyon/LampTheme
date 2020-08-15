@@ -3,6 +3,9 @@ title: "Post Title"
 date: 2020-08-09T16:29:23-05:00
 description: "This is a short description of the page"
 images: ["/images/blog/mountain.jpg"]
+categories:
+  - Web development
+  - Blogging
 ---
 
 

@@ -2,6 +2,9 @@
 title: "Cool"
 date: 2020-08-13T20:02:40-05:00
 images: ["/images/blog/shark.jpg"]
+categories:
+  - Web development
+  - Blogging
 
 ---
 

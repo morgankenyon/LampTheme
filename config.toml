@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Päkstech.dev"
 theme = "bloggeri"
+paginate = 4
 
 [params]
     description = "My site description"
@@ -17,6 +18,9 @@ theme = "bloggeri"
 [[menu.main]]
     name = "Contact"
     url = "/contact"
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"    
 [[menu.social]]
     name = "GitHub"
     url = "https://github.com/pakstech"

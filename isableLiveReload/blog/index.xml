@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Päkstech.dev</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Päkstech.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 05:08:38 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Heaven</title>
+      <link>http://localhost:1313/blog/2020/08/heaven/</link>
+      <pubDate>Thu, 13 Aug 2020 20:05:09 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/08/heaven/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+    <item>
+      <title>ReallyBig</title>
+      <link>http://localhost:1313/blog/2020/08/reallybig/</link>
+      <pubDate>Thu, 13 Aug 2020 20:05:02 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/08/reallybig/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+    <item>
+      <title>Crazy</title>
+      <link>http://localhost:1313/blog/2020/08/crazy/</link>
+      <pubDate>Thu, 13 Aug 2020 20:04:54 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/08/crazy/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Finish</title>
+      <link>http://localhost:1313/blog/2020/08/finish/</link>
+      <pubDate>Thu, 13 Aug 2020 20:04:50 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/08/finish/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+    <item>
+      <title>Cool</title>
+      <link>http://localhost:1313/blog/2020/08/cool/</link>
+      <pubDate>Thu, 13 Aug 2020 20:02:40 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2020/08/cool/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://localhost:1313/blog/2019/lorem-ipsum/</link>
+      <pubDate>Mon, 10 Aug 2020 05:12:00 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+    <item>
+      <title>Post Title</title>
+      <link>http://localhost:1313/blog/2019/post-title/</link>
+      <pubDate>Sun, 09 Aug 2020 16:29:23 -0500</pubDate>
+      
+      <guid>http://localhost:1313/blog/2019/post-title/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultricies blandit lorem, nec dignissim risus pulvinar quis. Proin ac accumsan eros. Ut sit amet eros orci. Morbi placerat sodales arcu, sit amet viverra magna blandit vitae. Pellentesque a augue sit amet eros volutpat hendrerit. Nam facilisis ultrices augue sit amet convallis. Sed ultricies ac erat vel pharetra. Nullam malesuada massa non purus tincidunt facilisis.
+What is Lorem Ipsum? Curabitur dolor est, bibendum eget mollis id, varius nec quam.</description>
+    </item>
+    
+  </channel>
+</rss>

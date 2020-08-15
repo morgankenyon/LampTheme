@@ -1,6 +1,10 @@
 ---
 title: "Finish"
 date: 2020-08-13T20:04:50-05:00
+images: ["/images/blog/finish.jpg"]
+categories:
+  - Web development
+  - Blogging
 ---
 
 

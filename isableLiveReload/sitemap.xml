@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/categories/blogging/</loc>
+    <lastmod>2020-08-13T20:05:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2020-08-13T20:05:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2020/08/heaven/</loc>
+    <lastmod>2020-08-13T20:05:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/love/</loc>
+    <lastmod>2020-08-13T20:05:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2020/08/reallybig/</loc>
+    <lastmod>2020-08-13T20:05:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/web-development/</loc>
+    <lastmod>2020-08-13T20:05:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2020/08/crazy/</loc>
+    <lastmod>2020-08-13T20:04:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2020/08/finish/</loc>
+    <lastmod>2020-08-13T20:04:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2020/08/cool/</loc>
+    <lastmod>2020-08-13T20:02:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2020-08-12T05:15:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/privacy/</loc>
+    <lastmod>2020-08-12T05:11:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2020-08-12T05:03:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2019/lorem-ipsum/</loc>
+    <lastmod>2020-08-10T05:12:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2020-08-10T05:08:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2020-08-09T16:35:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/2019/post-title/</loc>
+    <lastmod>2020-08-09T16:29:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+  
+</urlset>
